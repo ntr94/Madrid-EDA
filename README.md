@@ -25,4 +25,8 @@ I use Streamlit as presentation mode to be able to see the graphics of the Madri
 
 ## Links
 
+[Code]([https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid.ipynb))
+
+[Streamlit code](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid_app.py)
+
 [Streamlit](https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/)
