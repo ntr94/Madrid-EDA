@@ -25,4 +25,4 @@ I use Streamlit as presentation mode to be able to see the graphics of the Madri
 
 ## Links
 
-[![Streamlit](https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/)
+[Streamlit](https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/)
