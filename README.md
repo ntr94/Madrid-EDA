@@ -1,4 +1,4 @@
-<img src="madrid_intro.jpg" style="display: block; margin: auto;">
+<img src="madrid_intro.png" style="display: block; margin: auto;">
 
 # Madrid-EDA
 Basic Exploratory Data Analysis of Madrid's Airbnb Data
