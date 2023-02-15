@@ -31,4 +31,4 @@ I use Streamlit as presentation mode to be able to see the graphics of the Madri
 
 [Streamlit code](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid_app.py)
 
-[Streamlit](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid_app.py)
+[Streamlit](https://ntr94-madrid-eda-madrid-app-zysdq0.streamlit.app/)
