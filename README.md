@@ -1,4 +1,6 @@
-<img src="madrid_intro.png" style="display: block; margin: auto;">
+<img src="imagen/madrid_intro.png" style="display: block; margin: auto;">
+
+:gb:
 
 # Madrid-EDA
 Basic Exploratory Data Analysis of Madrid's Airbnb Data
@@ -21,12 +23,12 @@ With this in mind, and knowing that Airbnb is one of the most popular online mar
 ## Streamlit
 I use Streamlit as presentation mode to be able to see the graphics of the Madrid.
 
-![streamlit-Madrid.gif](https://github.com/ntr94/Madrid-EDA/blob/main/streamlit-Madrid.gif)
+![streamlit-Madrid.gif](https://github.com/ntr94/Madrid-EDA/blob/main/front_page/streamlit-madrid_app.gif)
 
 ## Links
 
-[Code](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid.ipynb)
+[Notebook](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid.ipynb)
 
 [Streamlit code](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid_app.py)
 
-[Streamlit](https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/)
+[Streamlit](https://github.com/ntr94/Madrid-EDA/blob/main/Madrid_app.py)
