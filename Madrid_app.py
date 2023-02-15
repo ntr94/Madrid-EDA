@@ -118,31 +118,31 @@ elif index == 'Data Visualization':
     tab_plots2 = tabs2[0]
     with tab_plots2:
         
-        st.image('data/correlation.png', width=1000)
+        st.image('imagen/correlation.png', width=1000)
 
     #Table neighbourhood_group
     tab_plots2 = tabs2[1]
     with tab_plots2:
         
-        st.image('data/neighbourhood_group.png', width=1000)
+        st.image('imagen/neighbourhood_group.png', width=1000)
 
     #Table neighbourhood
     tab_plots2 = tabs2[2]
     with tab_plots2:
         
-        st.image('data/neighbourhood.png', width=1500)
+        st.image('imagen/neighbourhood.png', width=1500)
 
     #Table room type
     tab_plots2 = tabs2[3]
     with tab_plots2:
         
-        st.image('data/room_type.png', width=1000)
+        st.image('imagen/room_type.png', width=1000)
 
     #Table NEIGHBOURGROUP AND AVAILABILITY
     tab_plots2 = tabs2[4]
     with tab_plots2:
         
-        st.image('data/neigh_avail.png')
+        st.image('imagen/neigh_avail.png')
 
 elif index == 'Maps':
     # MAPS
@@ -154,30 +154,30 @@ elif index == 'Maps':
     tab_plots3 = tabs3[0]
     with tab_plots3:
         
-        st.image('data/map_neighgroup.png', width=1000)
+        st.image('imagen/map_neighgroup.png', width=1000)
     
     #Table NEIGHBOURHOOD GROUP
     tab_plots3 = tabs3[1]
     with tab_plots3:
         
-        st.image('data/map_neighbourhood.png', width=1000)
+        st.image('imagen/map_neighbourhood.png', width=1000)
 
     #Table ROOM TYPE
     tab_plots3 = tabs3[2]
     with tab_plots3:
         
-        st.image('data/map_roomtype.png', width=1000)
+        st.image('imagen/map_roomtype.png', width=1000)
 
     #Table AVAILABILITY
     tab_plots3 = tabs3[3]
     with tab_plots3:
         
-        st.image('data/map_avail.png', width=1000)
+        st.image('imagen/map_avail.png', width=1000)
 
 else:
     # Word Cloud
     st.title('Word Cloud')
-    st.image('data/WordCloud.png', width=1000)
+    st.image('imagen/WordCloud.png', width=1000)
 
 
 
