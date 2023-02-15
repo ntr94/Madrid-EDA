@@ -1,4 +1,4 @@
-<img src="front_page/madrid_intro.png" style="display: block; margin: auto;">
+<img src="front_page/madrid_intro.PNG" style="display: block; margin: auto;">
 
 :gb:
 
